@@ -49,13 +49,15 @@ div{
     left:50px;
     right:50px;
     bottom:50px;
+    background-image:url(photo.jpg) ;
+    background-size: cover;
 
 }
 
 
 
 #box3{
-    background-color:crimson;
+    background-color:rgb(67, 199, 204);
     height:100px;
     width:100px;
     position:relative;
@@ -69,5 +71,24 @@ div{
     background-color:deeppink;
     height:100px;
     width:100px;
+}
+
+#box5{
+    background-color:aqua;
+    height:150px;
+    width:90px;
+    border:solid black;
+    background-image: url(modling.jpg);
+    background-size:cover;
+}
+
+
+#box6{
+    background-color:aqua;
+    height:200px;
+    width:300px;
+    border:solid white;
+    background-image: url(pic.jpg);
+    background-size:cover;
 }
 
